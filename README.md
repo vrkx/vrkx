@@ -6,6 +6,8 @@
 
 https://vrkx.github.io/Carrot/ 
 
+- I also made a fortnite ping displayer check here for more https://github.com/vrkx/Pingnite
+
 
 <!---
 vrkx/vrkx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
