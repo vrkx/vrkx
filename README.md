@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @vrkx
 - 👀 I’m interested in WPF APP's and Web Progressive Apps .
 # Projects
-- 👩‍💻 I have made project's such as [a Fortnite launcher that displays the current ping from Fortnite servers](https://vrkx.github.io/FPing/ )
+- 👩‍💻 I have made project's such as [a Fortnite launcher that displays the current ping from Fortnite servers](https://github.com/vrkx/FPing )
 
 
 <!---
