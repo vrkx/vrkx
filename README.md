@@ -1,12 +1,8 @@
 # Readme
 - 👋 Hi, I’m @vrkx
-- 👀 I’m interested in Web Progressive Apps .
+- 👀 I’m interested in WPF APP's and Web Progressive Apps .
 # Projects
-- 👩‍💻 I have made project's such as an iOS Web Progressive Style that works like an alternative store, i expect to make more in the future and work on windows too!
-
-https://vrkx.github.io/Carrot/ 
-
-- I also made a fortnite ping displayer check here for more https://github.com/vrkx/Pingnite
+- 👩‍💻 I have made project's such as [a Fortnite launcher that displays the current ping from Fortnite servers](https://vrkx.github.io/FPing/ )
 
 
 <!---
